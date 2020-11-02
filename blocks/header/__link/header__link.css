@@ -2,9 +2,13 @@
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
-  text-decoration-line: underline;
+  text-decoration-line: none;
   color: #fff;
   margin-left: 18px;
+}
+
+.header__link:hover {
+  text-decoration-line: underline;
 }
 
 @media (min-width: 768px) {
