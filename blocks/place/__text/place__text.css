@@ -1,0 +1,5 @@
+@media (min-width: 320px) and (max-width: 767px) {
+  .place__text {
+    padding: 0 16px;
+  }
+}

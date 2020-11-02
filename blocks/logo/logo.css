@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+  .logo {
+    content: url(../../images/logo.png);
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .logo {
+    content: url(../../images/logo_mob.png);
+  }
+}

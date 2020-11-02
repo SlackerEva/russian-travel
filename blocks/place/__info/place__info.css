@@ -1,0 +1,11 @@
+.place__info {
+ /* grid-area: info;*/
+  align-self: flex-end;
+  margin: 0;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .place__info {
+    display: none;
+  }
+}
