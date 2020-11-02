@@ -1,4 +1,4 @@
-/*.cover__text {
+.cover__text {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -6,6 +6,17 @@
   line-height: 22px;
   text-align: center;
   color: #fff;
-  width: 30%;
+  width: 360px;
+  margin: 0;
+  z-index: 1;
+  position: relative;
   margin: auto;
-}*/
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+  .cover__text {
+    font-size: 14px;
+    line-height: 16px;
+    width: 288px;
+  }
+}
