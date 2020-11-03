@@ -1,9 +1,9 @@
 @media (min-width: 320px) and (max-width: 767px) {
-  .footer__link_position {
+  .footer__link-position {
     padding-bottom: 32px;
   }
 
-  .footer__link_position:last-child {
+  .footer__link-position:last-child {
     padding-bottom: 48px;
   }
 }
