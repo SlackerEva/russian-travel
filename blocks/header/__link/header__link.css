@@ -7,10 +7,6 @@
   margin-left: 18px;
 }
 
-.header__link:hover {
-  text-decoration-line: underline;
-}
-
 @media (min-width: 768px) {
   .header__link {
     font-size: 24px;
