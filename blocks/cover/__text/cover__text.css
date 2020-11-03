@@ -1,15 +1,12 @@
 .cover__text {
-  font-family: Inter;
-  font-style: normal;
-  font-weight: normal;
   font-size: 18px;
   line-height: 22px;
   text-align: center;
-  color: #fff;
   width: 360px;
   z-index: 1;
   position: relative;
   margin: auto;
+  color: #fff;
 }
 
 @media (min-width: 320px) and (max-width: 767px){
